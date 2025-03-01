@@ -1,4 +1,4 @@
 # Awesome-Multimodal-Binding
 
-This repository provides the latest and most comprehensive information on Multimodal Binding methods.
+This repository provides the latest and most comprehensive information on multimodal binding methods.
 
